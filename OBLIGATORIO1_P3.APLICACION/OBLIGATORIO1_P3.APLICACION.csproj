@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OBLIGATORIO1_P3.ACCESODATOS\OBLIGATORIO1_P3.ACCESODATOS.csproj" />
+    <ProjectReference Include="..\OBLIGATORIO1_P3.LOGICANEGOCIO\OBLIGATORIO1_P3.LOGICANEGOCIO.csproj" />
+  </ItemGroup>
+
+</Project>
